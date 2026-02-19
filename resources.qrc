@@ -1,0 +1,9 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+  <qresource prefix="/">
+    <file>assets/mosque_silhouette.svg</file>
+    <file>assets/icon.ico</file>
+    <file>qml/fonts/Amiri-Regular.ttf</file>
+    <file>qml/fonts/NotoSans-Regular.ttf</file>
+  </qresource>
+</RCC>

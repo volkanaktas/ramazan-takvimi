@@ -1,0 +1,17 @@
+{
+  "api_token": "BURAYA_DIYANET_API_TOKEN_GIRIN",
+  "dynamic_mode": false,
+  "ramadan_start": "2026-02-18",
+  "ilce_id": "9737",
+  "ulke_id": "2",
+  "sehir_id": "557",
+  "location_display": "Mersin / Merkez",
+  "institution_name": "",
+  "music_folder": "",
+  "music_enabled": false,
+  "window_width": 900,
+  "window_height": 700,
+  "font_scale": "medium",
+  "lat": 36.8,
+  "lon": 34.64
+}

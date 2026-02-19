@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" fill="#D4AF37">
+  <!-- Ana kubbe -->
+  <ellipse cx="400" cy="180" rx="120" ry="100"/>
+  <rect x="280" y="180" width="240" height="120"/>
+
+  <!-- Sol minare -->
+  <rect x="180" y="100" width="40" height="200"/>
+  <ellipse cx="200" cy="100" rx="20" ry="30"/>
+  <!-- Sol minare şerefe -->
+  <rect x="170" y="160" width="60" height="10" rx="5"/>
+  <!-- Sol minare alem -->
+  <polygon points="200,60 205,100 195,100"/>
+
+  <!-- Sağ minare -->
+  <rect x="580" y="100" width="40" height="200"/>
+  <ellipse cx="600" cy="100" rx="20" ry="30"/>
+  <!-- Sağ minare şerefe -->
+  <rect x="570" y="160" width="60" height="10" rx="5"/>
+  <!-- Sağ minare alem -->
+  <polygon points="600,60 605,100 595,100"/>
+
+  <!-- Yan kubbeler -->
+  <ellipse cx="290" cy="200" rx="60" ry="50"/>
+  <rect x="230" y="200" width="120" height="100"/>
+  <ellipse cx="510" cy="200" rx="60" ry="50"/>
+  <rect x="450" y="200" width="120" height="100"/>
+
+  <!-- Kapı kemeri -->
+  <path d="M370,300 L370,220 Q400,190 430,220 L430,300 Z" fill="#0D1B2A"/>
+
+  <!-- Pencereler -->
+  <ellipse cx="340" cy="230" rx="15" ry="20" fill="#0A3D4A"/>
+  <ellipse cx="460" cy="230" rx="15" ry="20" fill="#0A3D4A"/>
+  <ellipse cx="400" cy="160" rx="18" ry="25" fill="#0A3D4A"/>
+</svg>
